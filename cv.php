@@ -22,6 +22,7 @@
     <article class="row">
         <div class="col-md-6">
             <h2>Over mezelf</h2>
+            <h3>test</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error neque reiciendis tenetur. Aliquam animi asperiores consequatur corporis deserunt dolorem hic illum incidunt, magnam nulla odit omnis placeat quam repellendus, vitae!</p>
         </div>
         <div class="col-md-6">
